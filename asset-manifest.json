@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/WatchGuru/static/css/main.bf3b5ea4.css",
+    "main.js": "/WatchGuru/static/js/main.6a4d2c03.js",
+    "index.html": "/WatchGuru/index.html",
+    "static/media/search.svg": "/WatchGuru/static/media/search.b416605642fcb3f2447edc96c1a80e05.svg",
+    "main.bf3b5ea4.css.map": "/WatchGuru/static/css/main.bf3b5ea4.css.map",
+    "main.6a4d2c03.js.map": "/WatchGuru/static/js/main.6a4d2c03.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf3b5ea4.css",
+    "static/js/main.6a4d2c03.js"
+  ]
+}
