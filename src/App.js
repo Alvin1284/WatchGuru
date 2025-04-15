@@ -8,7 +8,7 @@ import searchIcon from "./search.svg";
 
 // 8a9580cd
 
-const API_URL = 'http://www.omdbapi.com?apikey=8a9580cd'
+const API_URL = 'https://www.omdbapi.com?apikey=8a9580cd'
 
 // const movie1 = {
 //     "Title": "The Shawshank Redemption",
